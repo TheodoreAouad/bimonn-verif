@@ -24,3 +24,7 @@ lake build
 ```
 
 A successful build means every statement in the library has been checked by the Lean kernel.
+
+## License
+
+Apache 2.0, see [LICENSE](LICENSE).

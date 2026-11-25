@@ -1,4 +1,11 @@
-import Mathlib
+/-
+Copyright (c) 2026 Théodore Aouad. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Théodore Aouad
+-/
+module
+
+public import Mathlib
 
 /-!
 # First steps
@@ -6,6 +13,8 @@ import Mathlib
 Three tiny statements, from pure logic to a first lemma in the spirit of the thesis.
 Each one is checked by the Lean kernel when the file compiles.
 -/
+
+public section
 
 open Finset
 
